@@ -1,4 +1,4 @@
-module Leemacintyre/my-grpc-go-server
+module github.com/Leemacintyre/my-grpc-go-server
 
 go 1.22.5
 
